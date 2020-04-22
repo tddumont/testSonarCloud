@@ -18,7 +18,7 @@ sonar.links.issue=https://github.com/tddumont/testSonarCloud/issues
 sonar.host.url=https://sonarcloud.io
 sonar.organization=tddumont
 sonar.login=1e2b6e18fac3c4e8acee253672c4bbbec993c953
-sonar.sources=src
+sonar.sources=.
 sonar.language=java
 
 
