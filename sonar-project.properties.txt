@@ -1,0 +1,33 @@
+sonar.projectKey=tddumont_testSonarCloud
+sonar.projectName=testSonarCloud
+
+# =====================================================
+#   Meta-data for the project
+# =====================================================
+
+sonar.links.homepage=https://github.com/tddumont/testSonarCloud
+sonar.links.ci=https://travis-ci.org/tddumont/testSonarCloud
+sonar.links.scm=https://github.com/tddumont/testSonarCloud
+sonar.links.issue=https://github.com/tddumont/testSonarCloud/issues
+
+
+# =====================================================
+#   Properties that will be shared amongst all modules
+# =====================================================
+
+sonar.host.url=https://sonarcloud.io
+sonar.organization=tddumont
+sonar.login=1e2b6e18fac3c4e8acee253672c4bbbec993c953
+sonar.sources=src
+sonar.language=java
+
+
+
+# =====================================================
+#   Java config
+# =====================================================
+sonar.java.source=1.8
+sonar.java.binaries=.
+
+# Debug
+sonar.verbose=true
