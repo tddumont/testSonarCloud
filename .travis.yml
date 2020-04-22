@@ -3,7 +3,7 @@ jdk: -openjdk8
 
 addons: 
     sonarcloud:
-        organization: tddumont
+        organization: "tddumont"
         token: 1e2b6e18fac3c4e8acee253672c4bbbec993c953
 
 script:
